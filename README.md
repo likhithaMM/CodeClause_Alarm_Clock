@@ -13,7 +13,7 @@
 - This solution is made using an open source Python Library - *pyshortners*
 
 # Watch Video
-- to watch video on my Linked page [click here]()
+- to watch video on my Linked page [click here](https://www.linkedin.com/posts/medisetty-likhitha_python-pythondeveloper-pythonprogramming-activity-7054862836887343104-M9Gk?utm_source=share&utm_medium=member_desktop)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medisetty-likhitha)
